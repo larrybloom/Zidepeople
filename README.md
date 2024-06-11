@@ -25,7 +25,7 @@ Clone the Repository:
 
 sh
 Copy code
-git clone https://github.com/yourusername/BookManagementAPI.git
+git clone https://github.com/larrybloom/Zidepeople.git
 cd BookManagementAPI
 Open the Project:
 
